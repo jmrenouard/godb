@@ -1,0 +1,7 @@
+export GOROOT="/mnt/c/Program\ Files/Go/"
+export GOBIN=$GOROOT/bin
+export GOPATH=./src
+export PATH=$PATH:$GOBIN
+
+alias go=go.exe
+alias git=git.exe
